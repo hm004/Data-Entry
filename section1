@@ -251,4 +251,31 @@
     "Server Name": "us-dns.earth.orderbox-dns.com",
     "Domain Status": "client Transfer Prohibited"
   }
-  
+  //10
+ {
+    "Domain Name": "airproductsqudra.com",
+    "Expiry/Date": "01-12-2019",
+    "Domain Registrar Name": "CSC Corporate Domains, Inc.",
+    "Domain Registrar URL": "http://www.cscglobal.com/global/web/csc/digital-brand-services",
+    "Registrant Name": "Domain Administrator",
+    "Registrant Company": "Air Products and Chemicals, Inc.",
+    "Registrant Address": "7201 Hamilton Blvd, Allentown, PA, 18195, United States",
+    "Registrant Email": "domainadmin@airproducts.com",
+    "Registrant Phone": "1.610481394",
+    "Administrative Name": "Domain Administrator",
+    "Administrative Company": "Air Products and Chemicals, Inc.",
+    "Administrative Address": "7201 Hamilton Blvd, Allentown, PA, 18195, United States",
+    "Administrative Email": "domainadmin@airproducts.com",
+    "Administrative Phone": "1.610481394",
+    "Technical Name": "DNS Administrator",
+    "Technical Company": "CSC Corporate Domains, Inc.",
+    "Technical Address": "251 Little Falls Drive, Wilmington, DE 19808, United States",
+    "Technical Email": "dns-admin@cscglobal.com",
+    "Technical Phone": "1.30263654",
+    "Billing Name": "",
+    "Billing Company": "",
+    "Billing Email": "",
+    "Billing Phone": "",
+    "Server Name": "dns1.cscdns.net",
+    "Domain Status": "client Transfer Prohibited"
+  }
